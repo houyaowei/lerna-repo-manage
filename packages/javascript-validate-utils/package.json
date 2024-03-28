@@ -1,6 +1,6 @@
 {
   "name": "javascript-validate-utils",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "main": "dist/javascript-validate-utils.js",
   "author": "houyuewei <houyaowei@163.com>",
   "description": "a validate tool for variables and functions",
@@ -26,6 +26,5 @@
     "jest": "^27.4.7",
     "jest-esm-transformer-2": "^1.0.0",
     "rollup": "^2.64.0"
-  },
-  "dependencies": {}
+  }
 }

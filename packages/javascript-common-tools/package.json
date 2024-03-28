@@ -1,6 +1,6 @@
 {
   "name": "javascript-common-tools",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "main": "dist/javascript-common-tools",
   "author": "houyuewei <houyaowei@163.com>",
   "description": "javascript common tools",
@@ -25,6 +25,5 @@
     "jest": "^29.3.1",
     "jest-esm-transformer-2": "^1.0.0",
     "rollup": "^3.7.0"
-  },
-  "dependencies": {}
+  }
 }
