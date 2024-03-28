@@ -1,0 +1,17 @@
+[NX Daemon Server] - 2024-03-28T12:19:43.116Z - Started listening on: /var/folders/g4/1lzhhvrx1ysb0y1_v5y2_z400000gn/T/ed21dc0f210b361b7561/d.sock
+[NX Daemon Server] - 2024-03-28T12:19:43.118Z - [WATCHER]: Subscribed to changes within: /Users/houyaowei/Documents/git-resource/github/lerna-repo-manage (native)
+[NX Daemon Server] - 2024-03-28T12:19:43.128Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-28T12:19:43.129Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-28T12:19:43.129Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-28T12:19:43.130Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-28T12:19:43.130Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-28T12:19:43.130Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-28T12:19:43.130Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-28T12:19:43.237Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-28T12:19:43.238Z - Time taken for 'total for creating and serializing project graph' 107.173167ms
+[NX Daemon Server] - 2024-03-28T12:19:43.241Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-28T12:19:43.242Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 107. Response time: 5.
+[NX Daemon Server] - 2024-03-28T12:19:43.244Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-28T12:19:43.244Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-28T12:19:43.244Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-03-28T12:26:17.571Z - Closed a connection. Number of open connections: 0

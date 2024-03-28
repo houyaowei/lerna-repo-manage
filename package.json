@@ -1,0 +1,19 @@
+{
+  "name": "npm-lerna-demo",
+  "main": "",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "run:tasks": "npx lerna run test,build",
+    "install:all": "yarn run install:tools && yarn run install:utils",
+    "install:tools": "npx lerna exec --scope javascript-common-tools -- pnpm install",
+    "install:utils": "npx lerna exec --scope javascript-validate-utils -- pnpm install",
+    "publish:repo": "npx lerna publish"
+  },
+  "devDependencies": {
+    "lerna": "^8.1.2"
+  },
+  "version": "0.0.3"
+}
