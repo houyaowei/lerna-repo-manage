@@ -9,16 +9,28 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".gitignore",
-        "hash": "14103856211278991131"
+        "file": "lerna-debug.log",
+        "hash": "2945653376591258627"
+      },
+      {
+        "file": "README.md",
+        "hash": "2010031051013699237"
+      },
+      {
+        "file": "yarn.lock",
+        "hash": "15980752142891064837"
       },
       {
         "file": "LICENSE",
         "hash": "17626218958477821643"
       },
       {
-        "file": "README.md",
-        "hash": "2010031051013699237"
+        "file": ".gitignore",
+        "hash": "14103856211278991131"
+      },
+      {
+        "file": "package.json",
+        "hash": "3297413649188813391"
       },
       {
         "file": "lerna.json",
@@ -27,14 +39,6 @@
       {
         "file": "nx.json",
         "hash": "2069600461835927800"
-      },
-      {
-        "file": "package.json",
-        "hash": "3297413649188813391"
-      },
-      {
-        "file": "yarn.lock",
-        "hash": "15980752142891064837"
       }
     ],
     "projectFileMap": {

@@ -1,0 +1,9 @@
+19 error Error: Command failed with exit code 1: git remote update
+19 error fatal: unable to access 'https://github.com/houyaowei/lerna-repo-manage.git/': Failed to connect to github.com port 443 after 24613 ms: Couldn't connect to server
+19 error     at makeError (/Users/houyaowei/.npm/_npx/d5cad42883f80c04/node_modules/execa/lib/error.js:59:11)
+19 error     at module.exports.sync (/Users/houyaowei/.npm/_npx/d5cad42883f80c04/node_modules/execa/index.js:186:17)
+19 error     at Object.execSync (/Users/houyaowei/.npm/_npx/d5cad42883f80c04/node_modules/lerna/dist/index.js:142:31)
+19 error     at updateRemote (/Users/houyaowei/.npm/_npx/d5cad42883f80c04/node_modules/lerna/dist/index.js:7780:18)
+19 error     at isBehindUpstream (/Users/houyaowei/.npm/_npx/d5cad42883f80c04/node_modules/lerna/dist/index.js:7770:3)
+19 error     at VersionCommand.initialize (/Users/houyaowei/.npm/_npx/d5cad42883f80c04/node_modules/lerna/dist/index.js:8061:57)
+19 error     at VersionCommand.runCommand (/Users/houyaowei/.npm/_npx/d5cad42883f80c04/node_modules/lerna/dist/index.js:1861:36)
